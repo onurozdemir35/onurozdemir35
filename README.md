@@ -28,15 +28,12 @@ Welcome to my GitHub profile! I'm a software developer passionate about coding a
 ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurozdemir&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurozdemir&layout=compact&theme=radical)
 
-### 🔥 Activity & Contribution Graph
-[![Onur's Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=onurozdemir&layout=compact&theme=radical)](https://github.com/onurozdemir)
-
 ---
 
 ## 🏆 Current Projects
 ### Featured Project: **React Weather App**
 A user-friendly weather app built with React and OpenWeatherMap API. Real-time data and customizable themes for a personalized experience.
-![Project GIF](https://your-gif-link-here.com)
+![Project GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) <!-- Örnek bir GIF ile değiştirildi -->
 
 [![View on GitHub](https://img.shields.io/badge/View_Project_on_GitHub-green?style=for-the-badge&logo=github)](https://github.com/onurozdemir/react-weather-app)
 
@@ -56,4 +53,3 @@ I'm always open to discuss tech, collaboration, and exciting new ideas! Feel fre
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onur@example.com)](mailto:onur@example.com)
 
 ---
-
