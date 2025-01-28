@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Onur Özdemir!
 
-Welcome to my GitHub profile! I'm a software developer passionate about coding and sharing knowledge with the community. Here’s a glimpse into my world 👇
+Welcome to my GitHub profile! I'm a software developer passionate about coding and sharing knowledge with the community. Let me share a glimpse into my world. 🚀
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onurozdemir/)](https://www.linkedin.com/in/onurozdemir/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onur@example.com)](mailto:onur@example.com)
@@ -8,12 +8,14 @@ Welcome to my GitHub profile! I'm a software developer passionate about coding a
 ---
 
 ## 📋 About Me
-- 🔭 Currently diving deep into **Web Development**
-- 🌱 Exploring **React, Node.js, and Flask**
-- 👯 Always open for collaboration on open-source projects
-- ⚡ Fun Fact: I enjoy exploring new technologies and building side projects!
+- 🔭 **Current Focus:** Deep diving into **Web Development**
+- 🌱 **Learning Path:** Exploring **React, Node.js, and Flask**
+- 👯 Open for collaboration on open-source projects
+- ⚡ **Fun Fact:** I enjoy discovering new technologies and working on side projects!
 
-## 🚀 Languages and Tools I Use
+---
+
+## 🚀 Skills and Tools
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -25,21 +27,25 @@ Welcome to my GitHub profile! I'm a software developer passionate about coding a
 ---
 
 ## 📊 GitHub Stats
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurozdemir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurozdemir&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onurozdemir&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurozdemir&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🏆 Current Projects
-### Featured Project: **React Weather App**
-A user-friendly weather app built with React and OpenWeatherMap API. Real-time data and customizable themes for a personalized experience.
-![Project GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) <!-- Örnek bir GIF ile değiştirildi -->
+## 🏆 Featured Project: React Weather App
+### A user-friendly weather app built with React and OpenWeatherMap API. Real-time data and customizable themes for a personalized experience.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Project GIF" width="300" />
+</p>
 
 [![View on GitHub](https://img.shields.io/badge/View_Project_on_GitHub-green?style=for-the-badge&logo=github)](https://github.com/onurozdemir/react-weather-app)
 
 ---
 
-## 🎯 Goals for the Year
+## 🎯 Goals for 2025
 1. Complete my React.js certification
 2. Contribute to three major open-source projects
 3. Master GraphQL and Apollo
@@ -48,8 +54,8 @@ A user-friendly weather app built with React and OpenWeatherMap API. Real-time d
 ---
 
 ## 📬 Connect with Me
-I'm always open to discuss tech, collaboration, and exciting new ideas! Feel free to reach out.
+I'm always open to discussing tech, collaboration, and exciting new ideas! Feel free to reach out:
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onurozdemir/)](https://www.linkedin.com/in/onurozdemir/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onur@example.com)](mailto:onur@example.com)
 
----
