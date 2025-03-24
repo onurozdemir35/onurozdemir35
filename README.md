@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about coding a
 
 ## 📊 GitHub Stats
 <p align="center">
- ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurozdemir35&show_icons=true&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=onurozdemir35&show_icons=true&theme=radical" alt="Onur's GitHub Stats"/>
 </p>
 
 ---
