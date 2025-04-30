@@ -1,22 +1,22 @@
-# 👋 Merhaba, ben Onur Özdemir!
+# 👋 Hallo, ich bin Onur Özdemir!
 
-**Data Science & Web Technologies | Lernbereit & Zielstrebig**
+**Data Science & Web-Technologien | Lernbereit & Zielstrebig**
 
-Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmayı seven bir geliştiriciyim. Kod ile anlam çıkarmayı, çözüm üretmeyi ve takımla birlikte öğrenmeyi seviyorum.
+Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich für datengetriebene Projekte interessiert, gerne lernt und sein Wissen mit anderen teilt. Ich liebe es, durch Code Erkenntnisse zu gewinnen, Probleme zu lösen und im Team zu wachsen.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-ozdemr/)
 [![E-Mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:onurrozdemr@gmail.com)
 
 ---
 
-## 🧠 Hakkımda
-- 🎯 **Odağım:** Web-Technologien, Data Science ve Machine Learning
-- 📖 **Devam Ediyor:** Hochschule Hannover'da IT-Weiterbildung (08/2024)
-- 💡 Problem çözme, öğrenme isteği ve birlikte çalışma benim için temel değerlerdir
+## 🧠 Über mich
+- 🎯 **Fokus:** Web-Technologien, Data Science und Machine Learning
+- 📘 **Aktuell:** Weiterbildung an der Hochschule Hannover im Bereich IT (ab 08/2024)
+- 💡 Problemlösung, Lernbereitschaft und Teamarbeit sind für mich zentrale Werte
 
 ---
 
-## ⚒️ Teknik Yetenekler
+## ⚙️ Technische Kenntnisse
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -40,37 +40,33 @@ Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmay�
 
 ---
 
-## 🛠️ GitHub İstatistikleri
+## ⚙️ GitHub-Statistiken
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onurozdemir35&show_icons=true&theme=tokyonight" alt="Onur's GitHub Stats"/>
 </p>
 
 ---
 
-## 🌟 Öne Çıkan Proje: React Weather App
-**React ve OpenWeatherMap API ile geliştirilmiş, kullanıcı dostu bir hava durumu uygulaması.**
+## 🌟 Projekt-Highlight: React Weather App
+**Eine benutzerfreundliche Wetter-App mit React und der OpenWeatherMap API.**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Project GIF" width="300" />
-</p>
-
-[![Projeyi Görüntüle](https://img.shields.io/badge/GitHub'da%20Görüntüle-green?style=for-the-badge&logo=github)](https://github.com/onurozdemir/react-weather-app)
+[![Projekt ansehen](https://img.shields.io/badge/Auf%20GitHub%20ansehen-green?style=for-the-badge&logo=github)](https://github.com/onurozdemir/react-weather-app)
 
 ---
 
-## 📊 2025 Hedeflerim
-1. 3 büyük profesyonel açık kaynak projeye aktif katkıda bulunmak
-2. Teknik blog ve makale yayınlarını düzenli olarak sürdürmek
-3. Data Science ve Web Development alanında profesyonel bir sertifika tamamlamak
+## 🎯 Ziele für 2025
+1. Aktive Mitarbeit an 3 professionellen Open-Source-Projekten
+2. Regelmäßiges Schreiben technischer Blogs und Fachartikel
+3. Abschluss einer professionellen Zertifizierung in Data Science und Web Development
 
 ---
 
-## 🤝 İletişim
-Proje ve işbirliği fırsatları için benimle doğrudan iletişime geçebilirsiniz:
+## 🤝 Kontakt
+Bei Interesse an Projekten oder Kooperationen können Sie mich gerne kontaktieren:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-ozdemr/)
 [![E-Mail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:onurrozdemr@gmail.com)
 
 ---
 
-> "Veri, kodla buluştuğunda hayaller ürün olur."
+> "Wenn Daten auf Code treffen, werden Ideen zu Ergebnissen."
