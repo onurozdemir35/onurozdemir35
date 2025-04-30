@@ -66,7 +66,7 @@ Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmay�
 ---
 
 ## 🤝 İletişim
-Benimle her zaman teknoloji, projeler ya da sadece fikir alışverişi için iletişime geçebilirsiniz:
+Proje ve işbirliği fırsatları için benimle doğrudan iletişime geçebilirsiniz:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-ozdemr/)
 [![E-Mail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:onurrozdemr@gmail.com)
