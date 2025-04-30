@@ -12,13 +12,31 @@ Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmay�
 ## 🧠 Hakkımda
 - 🎯 **Odağım:** Web-Technologien, Data Science ve Machine Learning
 - 📖 **Devam Ediyor:** Hochschule Hannover'da IT-Weiterbildung (08/2024)
-- 📈 Almanca B1 belgelendi, B2 seviyesinde öğrenim devam ediyor
 - 💡 Problem çözme, öğrenme isteği ve birlikte çalışma benim için temel değerlerdir
 
 ---
 
 ## ⚒️ Teknik Yetenekler
-**Python, NumPy, Pandas, Matplotlib, Seaborn, Sckitlearn, Machine Learning, Statistic, GSS, SQL, Linux, Agile, Jira, HTML5, CSS3, PHP, JavaScript, React**
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistics-%23FFD700.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSS-%23007ACC.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Agile-%2300BFFF.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
@@ -43,7 +61,7 @@ Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmay�
 ## 📊 2025 Hedeflerim
 1. 3 büyük profesyonel açık kaynak projeye aktif katkıda bulunmak
 2. Teknik blog ve makale yayınlarını düzenli olarak sürdürmek
-3. Data Science veya Web Development alanında profesyonel bir sertifika tamamlamak
+3. Data Science ve Web Development alanında profesyonel bir sertifika tamamlamak
 
 ---
 
