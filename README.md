@@ -1,33 +1,24 @@
 # 👋 Merhaba, ben Onur Özdemir!
 
-**Data Science & Web Technologies | Ehemaliger Offizier | Lernbereit & Zielstrebig**
+**Data Science & Web Technologies | Lernbereit & Zielstrebig**
 
-Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmayı seven disiplinli bir geliştiriciyim. Kamu sektöründen gelen altyapımla, IT dünyasında sistemli ve analitik bakış açısı getiriyorum. İşte benim dijital dünya kesitim! 🚀
+Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmayı seven bir geliştiriciyim. Kod ile anlam çıkarmayı, çözüm üretmeyi ve takımla birlikte öğrenmeyi seviyorum.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onurozdemir/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-ozdemr/)
 [![E-Mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:onurrozdemr@gmail.com)
 
 ---
 
 ## 🧠 Hakkımda
-- 🎯 **Odağım:** Web-Technologien, Datenanalyse ve IT-Güvenliği
-- 📈 **Geçmiş:** TSK'da subay, sonrasında BWL mezunu ve Data Science'e geçiş
-- 📚 **Devam Ediyor:** Hochschule Hannover'da IT-Weiterbildung (08/2024)
-- 🎓 Almanca B1 belgelendi, şu anda B2 seviyesi eğitimi alıyorum
-- 🤝 Takım çalışması, sorumluluk ve çözüm odaklı yaklaşım benim için temel değerlerdir
+- 🎯 **Odağım:** Web-Technologien, Data Science ve Machine Learning
+- 📖 **Devam Ediyor:** Hochschule Hannover'da IT-Weiterbildung (08/2024)
+- 📈 Almanca B1 belgelendi, B2 seviyesinde öğrenim devam ediyor
+- 💡 Problem çözme, öğrenme isteği ve birlikte çalışma benim için temel değerlerdir
 
 ---
 
 ## ⚒️ Teknik Yetenekler
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+**Python, NumPy, Pandas, Matplotlib, Seaborn, Sckitlearn, Machine Learning, Statistic, GSS, SQL, Linux, Agile, Jira, HTML5, CSS3, PHP, JavaScript, React**
 
 ---
 
@@ -50,17 +41,16 @@ Merhaba! Veri odaklı projeler geliştirmeyi, öğrenmeyi ve bilgiyi paylaşmay�
 ---
 
 ## 📊 2025 Hedeflerim
-1. React.js sertifikasını tamamlamak
-2. 3 büyük açık kaynak projeye katkıda bulunmak
-3. GraphQL ve Apollo öğrenmek
-4. İlk teknik blog yazımı yayınlamak
+1. 3 büyük profesyonel açık kaynak projeye aktif katkıda bulunmak
+2. Teknik blog ve makale yayınlarını düzenli olarak sürdürmek
+3. Data Science veya Web Development alanında profesyonel bir sertifika tamamlamak
 
 ---
 
 ## 🤝 İletişim
 Benimle her zaman teknoloji, projeler ya da sadece fikir alışverişi için iletişime geçebilirsiniz:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onurozdemir/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onur-ozdemr/)
 [![E-Mail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:onurrozdemr@gmail.com)
 
 ---
