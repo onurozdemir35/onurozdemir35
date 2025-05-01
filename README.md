@@ -11,7 +11,7 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 
 ## 🧠 Über mich
 - 🎯 **Fokus:** Web-Technologien, Data Science und Machine Learning
-- 📘 **Aktuell:** Weiterbildung an der Hochschule Hannover im Bereich IT (ab 08/2024)
+- 📖 **Aktuell:** Weiterbildung an der Hochschule Hannover im Bereich IT (ab 08/2024)
 - 💡 Problemlösung, Lernbereitschaft und Teamarbeit sind für mich zentrale Werte
 
 ---
@@ -28,6 +28,10 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
   <img src="https://img.shields.io/badge/Statistics-%23FFD700.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GSS-%23007ACC.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Agile-%2300BFFF.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
@@ -40,9 +44,13 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 
 ---
 
-## ⚙️ GitHub-Statistiken
+## 📊 GitHub-Statistiken & Verwendete Sprachen
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onurozdemir35&show_icons=true&theme=tokyonight" alt="Onur's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurozdemir35&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -54,7 +62,7 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 
 ---
 
-## 🎯 Ziele für 2025
+## 🌟 Ziele für 2025
 1. Aktive Mitarbeit an 3 professionellen Open-Source-Projekten
 2. Regelmäßiges Schreiben technischer Blogs und Fachartikel
 3. Abschluss einer professionellen Zertifizierung in Data Science und Web Development
