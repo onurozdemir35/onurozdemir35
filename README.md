@@ -18,6 +18,7 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 
 ## ⚙️ Technische Kenntnisse
 <p>
+  <img src="https://img.shields.io/badge/Generative%20AI-%23606060.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -45,17 +46,18 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 ---
 
 ## 📊 GitHub-Statistiken & Verwendete Sprachen
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurozdemir35&show_icons=true&theme=tokyonight" alt="Onur's GitHub Stats"/>
-</p>
-
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=onurozdemir35&show_icons=true&theme=tokyonight" alt="Onur's GitHub Stats"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurozdemir35&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
+</tr></table>
 
 ---
 
-## 🌟 Projekt-Highlight: React Weather App
-**Eine benutzerfreundliche Wetter-App mit React und der OpenWeatherMap API.**
+## 🌟 Projekt-Highlights
 
-[![Projekt ansehen](https://img.shields.io/badge/Auf%20GitHub%20ansehen-green?style=for-the-badge&logo=github)](https://github.com/onurozdemir/react-weather-app)
+- [React Weather App](https://github.com/onurozdemir/react-weather-app) – Eine benutzerfreundliche Wetter-App mit React und der OpenWeatherMap API
+- [Data Analysis Projekte](https://github.com/onurozdemir35/Data-Analysis-Projekte) – Analysen mit Python, Pandas, Matplotlib etc.
+- [Data Science Projekte](https://github.com/onurozdemir35/Data-Science-Projects) – Machine Learning und Deep Learning Anwendungen](https://github.com/onurozdemir/react-weather-app)
 
 ---
 
