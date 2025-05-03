@@ -18,7 +18,6 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 
 ## ⚙️ Technische Kenntnisse
 <p>
-  <img src="https://img.shields.io/badge/Generative%20AI-%23606060.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -27,6 +26,7 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Statistics-%23FFD700.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%23606060.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GSS-%23007ACC.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
