@@ -58,7 +58,7 @@ Willkommen auf meinem Profil! Ich bin ein Entwickler, der sich leidenschaftlich 
 - [SemiKolon Website Projekt](https://github.com/onurozdemir35/Semikolon_Bibliothek) – Webanwendung für eine fiktive Bibliothek mit HTML, CSS, JavaScript und PHP
 - [ToDo App Projekt](https://github.com/onurozdemir35/HsH-KI) – Einfache Aufgabenverwaltung mit React und Zustand
 - [Data Analysis Projekte](https://github.com/onurozdemir35/Data-Analysis-Projekte) – Analysen mit Python, Pandas, Matplotlib etc.
-- [Data Science Projekte](https://github.com/onurozdemir35/Data-Science-Projects) – Machine Learning und Deep Learning Anwendungen](https://github.com/onurozdemir/react-weather-app)
+- [Data Science Projekte](https://github.com/onurozdemir35/Data-Science-Projects) – Machine Learning und Deep Learning Anwendungen]
 
 ---
 
